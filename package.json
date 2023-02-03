@@ -1,6 +1,6 @@
 {
   "name": "@lumjs/jquery-plugins",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "exports": {
     ".": "./lib/index.js",
@@ -16,7 +16,7 @@
     "url": "https://github.com/supernovus/lum.jquery-plugins.js.git"
   },
   "dependencies": {
-    "@lumjs/core": "^1.2.0"
+    "@lumjs/core": "^1.11.0"
   },
   "scripts": {
     "build-docs": "jsdoc -c ./jsdoc.json"
